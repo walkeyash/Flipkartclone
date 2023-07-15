@@ -152,6 +152,7 @@ header .cart svg{
     height: 64px;
     justify-content: center;
     align-items: center;
+    cursor: pointer;
 }
 
 /* Section 2 */
