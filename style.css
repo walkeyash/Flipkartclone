@@ -236,6 +236,7 @@ header .cart svg{
 .section-4-item img{
    max-width: 200px;
    max-height: 200px;
+   cursor: pointer;
 
 }
 .section-4-item-head{
