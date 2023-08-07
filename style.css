@@ -264,6 +264,7 @@ header .cart svg{
 }
 .section-5 img{
    width: 33%;
+   cursor: pointer;
 }
 /*Footer*/
 
