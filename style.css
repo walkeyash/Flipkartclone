@@ -164,6 +164,7 @@ header .cart svg{
    background-size: cover;
    background-position: center;
    background-repeat: no-repeat;
+   cursor: pointer;
 
 }
 .section-3-container{
